@@ -12,7 +12,7 @@ export default function AboutUs() {
         
         {/* Left Text */}
         <div className="md:w-1/2 space-y-4">
-          <h1 className="text-4xl font-bold">My Journey</h1>
+          <h1 className="text-4xl font-bold">My Journey : Nikhil Jangid  </h1>
 
           <p className="text-gray-600 text-sm leading-6">
             Hello! My name is <strong>Nikhil Jangid</strong>, and I am currently learning 
