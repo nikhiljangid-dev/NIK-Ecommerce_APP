@@ -16,7 +16,7 @@ export default function Login() {
         </div>
 
         {/* RIGHT FORM */}
-        <div className="w-1/2 p-8">
+        <div className="w-1/2  p-8">
           <h2 className="text-xl font-semibold mb-2">
             Log in to Exclusive
           </h2>
