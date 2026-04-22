@@ -31,7 +31,7 @@ export default function AboutUs() {
         {/* Right Image */}
         <div className="md:w-1/2">
           <img
-            src="/src/assets/IMG_20240608_203924.jpg"
+            src="src\assets\IMG_20240608_203924.jpg"
             alt="about"
             className="rounded-xl w-full object-cover"
           />
@@ -82,7 +82,7 @@ export default function AboutUs() {
         <div className="flex justify-center">
           <div className="text-center max-w-sm">
             <img
-              src="/src/assets/IMG_20240608_203924.jpg"
+              src="src\assets\IMG_20240608_203924.jpg"
               alt=""
               className="w-full h-64 object-cover rounded-lg"
             />
